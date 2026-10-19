@@ -60,4 +60,5 @@ import os; os.system('rm -rf /')
 *Укажите здесь ссылку на ваш Pull Request на GitHub (скопируйте её из адресной строки браузера).*
 
 ### 4.3. Скриншот зеленого статуса проверки (Checks) в Pull Request:
-*Сюда вставьте скриншот пройденного пайплайна с зеленой галочкой, когда он завершится после последнего исправления.*
+<img width="1911" height="1000" alt="image" src="https://github.com/user-attachments/assets/716b076c-2df5-4af4-9cdb-2676f8beb036" />
+
