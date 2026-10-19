@@ -21,4 +21,4 @@ def process_transaction(user_id, amount, db_connection):
         file.write(log_entry)
 
     return status
-
+    
