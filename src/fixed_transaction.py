@@ -20,5 +20,5 @@ def process_transaction(user_id, amount, db_connection):
     with open("audit_log.txt", "w") as file:
         file.write(log_entry)
 
-    return status
+return status
     
