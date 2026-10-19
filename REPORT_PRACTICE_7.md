@@ -57,7 +57,7 @@ import os; os.system('rm -rf /')
 В файле конфигурации задана максимальная длина строки в 80 символов (`max-line-length = 80`), добавлены исключения для некоторых форматирований (`extend-ignore = E203, W503`), а также настроено игнорирование служебных и системных файлов/каталогов (`.git`, `__pycache__`, `docs`, `config.py`) в параметре `exclude`.
 
 ### 4.2. Ссылка на Pull Request с исправленным кодом:
-*Укажите здесь ссылку на ваш Pull Request на GitHub (скопируйте её из адресной строки браузера).*
+https://github.com/Daniil34-create/lab-onboarding-Kanyshev/pulls?q=is%3Apr+state%3Aclosed
 
 ### 4.3. Скриншот зеленого статуса проверки (Checks) в Pull Request:
 <img width="1911" height="1000" alt="image" src="https://github.com/user-attachments/assets/716b076c-2df5-4af4-9cdb-2676f8beb036" />
