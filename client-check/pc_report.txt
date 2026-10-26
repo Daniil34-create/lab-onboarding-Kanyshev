@@ -1,0 +1,369 @@
+Диагностика компьютера 
+==================================== 
+ 
+[Операционная система] 
+Название: �������� Windows Server 2022 Standard 
+Версия: 10.0.20348 
+ 
+[Процессор] 
+Модель: Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz 
+ 
+[Оперативная память] 
+Всего памяти: 63 ГБ 
+Свободно памяти: 36 ГБ 
+ 
+[Диск C] 
+Общий размер:  ГБ 
+Свободное место: 741 ГБ 
+ 
+[Установленные программы] 
+draw.io 24.7.17 
+7-Zip 24.08 (x64) 
+Dr.Explain 
+Git 
+Microsoft SQL Server 2022 (64-bit) 
+Microsoft SQL Server 2022 (64-bit) 
+Notepad++ (64-bit x64) 
+PostgreSQL 17  
+PostgreSQL 18  
+Microsoft Office LTSC Professional Plus 2021 - en-us 
+Microsoft Office LTSC профессиональный плюс 2021 - ru-ru 
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm (x64) 
+vs_Graphics_Singletonx64 
+IIS Express Application Compatibility Database for x64 
+.NET for Android Templates (x64) 
+Microsoft .NET AppHost Pack - 9.0.0 (x64_arm64) 
+Microsoft.NETCore.App.Runtime.Mono.android-arm64 (x64) 
+Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64 (x64) 
+Python 3.14.0 Development Libraries (64-bit) 
+Microsoft .NET Host - 9.0.0 (x64) 
+SQL Server 2022 Shared Management Objects Extensions 
+Microsoft System CLR Types для SQL Server 2019 
+SQL Server 2022 SQL Diagnostics 
+Microsoft.Maui.Controls (x64) 
+SQL Server 2022 Database Engine Services 
+Microsoft ODBC Driver 17 for SQL Server 
+Zabbix Agent (64-bit) 
+DiagnosticsHub_CollectionService 
+Microsoft.iOS.Runtime.iossimulator-arm64.net9.0_18.1 (x64) 
+Microsoft.Android.Sdk.Windows (x64) 
+Microsoft ASP.NET Core 9.0.0 Targeting Pack (x64) 
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x64 (x64) 
+Microsoft.NETCore.App.Runtime.Mono.android-arm (x64) 
+Microsoft.iOS.Sdk.net8.0_17.0 (x64) 
+Microsoft.iOS.Windows.Sdk.net9.0_18.1 (x64) 
+Microsoft.NET.Workload.Mono.Toolchain.net7.Manifest (x64) 
+SQL Server 2022 Common Files 
+icecap_collection_x64 
+Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64 (x64) 
+Microsoft .NET Host FX Resolver - 9.0.0 (x64) 
+Microsoft.NETCore.App.Runtime.Mono.android-x64 (x64) 
+Microsoft.NETCore.App.Runtime.Mono.android-arm (x64) 
+Microsoft.MacCatalyst.Sdk.net9.0_18.0 (x64) 
+Application Verifier x64 External Package (OnecoreUAP) 
+Universal CRT Tools x64 
+Microsoft.iOS.Templates (x64) 
+Microsoft.NET.Sdk.Aspire.Manifest-8.0.100 (x64) 
+Microsoft.NETCore.App.Runtime.Mono.maccatalyst-arm64 (x64) 
+Microsoft.NET.Sdk.Maui.Manifest-9.0.100 (x64) 
+SQL Server 2022 Full text search 
+Microsoft .NET 9.0 Templates 9.0.100 (x64) 
+vs_minshellx64msi 
+Microsoft.MacCatalyst.Ref.net9.0_18.1 (x64) 
+Microsoft.Maui.Controls.Build.Tasks (x64) 
+Установка Microsoft SQL Server 2022 (на английском языке) 
+Microsoft SQL Server 2022 LocalDB  
+Microsoft Command Line Utilities 15 for SQL Server 
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211 
+Google Chrome 
+Microsoft.iOS.Sdk.net8.0_18.0 (x64) 
+Microsoft.MacCatalyst.Sdk.net9.0_18.1 (x64) 
+.NET MAUI SDK (x64) 
+Microsoft.NETCore.App.Runtime.Mono.android-x64 (x64) 
+Microsoft.NET.Sdk.macOS.Manifest-9.0.100 (x64) 
+Microsoft .NET AppHost Pack - 8.0.11 (x64_arm64) 
+SQL Server 2022 Database Engine Shared 
+SQL Server 2022 XEvent 
+Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64 (x64) 
+SQL Server 2022 DMF 
+Microsoft.Maui.Essentials (x64) 
+Python 3.14.0 Tcl/Tk Support (64-bit) 
+Microsoft.NET.Workload.Mono.Toolchain.Current.Manifest (x64) 
+Microsoft .NET Toolset 9.0.100 (x64) 
+Microsoft.NET.Workload.Emscripten.Current.Manifest (x64) 
+Microsoft.NET.Sdk.tvOS.Manifest-9.0.100 (x64) 
+Microsoft.NETCore.App.Runtime.Mono.maccatalyst-x64 (x64) 
+Microsoft SQL Server 2022 RsFx Driver 
+Microsoft.iOS.Sdk.net9.0_18.1 (x64) 
+Microsoft.NETCore.App.Runtime.Mono.ios-arm64 (x64) 
+Microsoft.NETCore.App.Runtime.Mono.android-arm64 (x64) 
+SQL Server 2022 Database Engine Services 
+Microsoft.NET.Workload.Mono.Toolchain.net6.Manifest (x64) 
+Microsoft.Android.Runtime.35.android-arm (x64) 
+Microsoft.iOS.Runtime.ios-arm64.net9.0_18.1 (x64) 
+Python 3.14.0 pip Bootstrap (64-bit) 
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm (x64) 
+SQL Server 2022 Common Files 
+Microsoft.NETCore.App.Runtime.Mono.android-x86 (x64) 
+VS JIT Debugger 
+SQL Server 2022 DMF 
+Python 3.14.0 Add to Path (64-bit) 
+Microsoft Visual Studio Installer 
+SQL Server 2022 Shared Management Objects 
+Windows App Certification Kit Native Components 
+Microsoft.NET.Sdk.iOS.Manifest-9.0.100 (x64) 
+Microsoft.NET.Sdk.Android.Manifest-9.0.100 (x64) 
+Microsoft OLE DB Driver for SQL Server 
+Microsoft.NET.Workload.Emscripten.net7.Manifest (x64) 
+Microsoft.NET.Workload.Mono.Toolchain.net8.Manifest (x64) 
+Microsoft .NET AppHost Pack - 8.0.11 (x64_x86) 
+Microsoft .NET AppHost Pack - 9.0.0 (x64) 
+Microsoft Analysis Services OLE DB Provider 
+vs_minshellinteropx64msi 
+Windows SDK DirectX x64 Remote 
+SQL Server 2022 Batch Parser 
+Microsoft.iOS.Windows.Sdk.net8.0_17.0 (x64) 
+Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64 (x64) 
+Microsoft.NET.Workload.Emscripten.net6.Manifest (x64) 
+Microsoft.Maui.Resizetizer (x64) 
+Модуль записи VSS для SQL Server 2022 (Microsoft) 
+Microsoft.NETCore.App.Runtime.Mono.iossimulator-x64 (x64) 
+.NET MAUI SDK (x64) 
+Microsoft Web Deploy 4.0 
+Microsoft.iOS.Runtime.iossimulator-x64.net9.0_18.1 (x64) 
+Microsoft Windows Desktop Runtime - 9.0.0 (x64) 
+Python 3.14.0 Standard Library (64-bit) 
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211 
+Microsoft.Android.Ref.35 (x64) 
+Python 3.14.0 Core Interpreter (64-bit) 
+Microsoft.Maui.Controls.Xaml (x64) 
+Microsoft.AspNetCore.Components.WebView.Maui (x64) 
+SQL Server 2022 Connection Info 
+Microsoft Visual Studio Tools for Applications 2019 x64 Hosting Support 
+Office 16 Click-to-Run Licensing Component 
+Office 16 Click-to-Run Extensibility Component 
+Office 16 Click-to-Run Localization Component 
+Microsoft.iOS.Windows.Sdk.net9.0_18.0 (x64) 
+Microsoft .NET AppHost Pack - 8.0.11 (x64) 
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86 (x64) 
+Microsoft.NETCore.App.Runtime.Mono.android-x86 (x64) 
+Microsoft.Android.Sdk.Windows (x64) 
+Python 3.14.0 Documentation (64-bit) 
+Microsoft .NET Runtime - 9.0.0 (x64) 
+Microsoft Windows Desktop Targeting Pack - 9.0.0 (x64) 
+Microsoft.NET.Runtime.MonoAOTCompiler.Task (x64) 
+Microsoft .NET Runtime - 8.0.11 (x64) 
+SQL Server 2022 Shared Management Objects Extensions 
+Microsoft.iOS.Sdk.net9.0_18.0 (x64) 
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x86 (x64) 
+IIS 10.0 Express 
+Microsoft.NETCore.App.Runtime.Mono.ios-arm64 (x64) 
+Microsoft .NET Standard Targeting Pack - 2.1.0 (x64) 
+Microsoft ASP.NET Core 8.0.11 Shared Framework (x64) 
+Microsoft.Android.Runtime.35.android-arm64 (x64) 
+Microsoft.Maui.Controls.Core (x64) 
+.NET MAUI Templates (x64) 
+IIS Express Application Compatibility Database for x86 
+Microsoft.MacCatalyst.Templates (x64) 
+VMware Tools 
+Microsoft.iOS.Windows.Sdk.net8.0_18.0 (x64) 
+.NET MAUI Templates (x64) 
+Python 3.14.0 Test Suite (64-bit) 
+Microsoft .NET 8.0 Templates 8.0.404 (x64) 
+Microsoft.Maui.Graphics (x64) 
+Microsoft.iOS.Ref.net9.0_18.1 (x64) 
+SQL Server 2022 XEvent 
+Python 3.14.0 Executables (64-bit) 
+NXLog-CE 
+Microsoft Windows Desktop Runtime - 8.0.11 (x64) 
+Microsoft .NET Targeting Pack - 8.0.11 (x64) 
+Microsoft Windows Desktop Targeting Pack - 8.0.11 (x64) 
+Microsoft ASP.NET Core 9.0.0 Shared Framework (x64) 
+Microsoft .NET Targeting Pack - 9.0.0 (x64) 
+Microsoft.NET.Workload.Emscripten.net8.Manifest (x64) 
+Application Verifier x64 External Package (DesktopEditions) 
+Microsoft.MacCatalyst.Runtime.maccatalyst-arm64.net9.0_18.1 (x64) 
+Microsoft.Android.Runtime.35.android-x64 (x64) 
+WinDirStat 
+Microsoft .NET SDK 9.0.100 (x64) from Visual Studio 
+SQL Server 2022 Database Engine Shared 
+SQL Server 2022 Shared Management Objects 
+Microsoft.NET.Runtime.MonoTargets.Sdk (x64) 
+Microsoft Visual C++ 2022 X64 Debug Runtime - 14.42.34433 
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-x64 (x64) 
+Microsoft ASP.NET Core 8.0.11 Targeting Pack (x64) 
+Microsoft.NETCore.App.Runtime.Mono.iossimulator-arm64 (x64) 
+Microsoft.Maui.Core (x64) 
+Microsoft.Maui.Controls.Compatibility (x64) 
+Microsoft.Maui.Graphics.Win2D.WinUI.Desktop (x64) 
+Microsoft.MacCatalyst.Runtime.maccatalyst-x64.net9.0_18.1 (x64) 
+Microsoft.MacCatalyst.Sdk.net8.0_17.0 (x64) 
+vs_devenx64vmsi 
+Microsoft SQL Server 2019 LocalDB  
+Microsoft.NET.Runtime.MonoTargets.Sdk (x64) 
+Microsoft .NET AppHost Pack - 9.0.0 (x64_x86) 
+Microsoft Visual Studio Code 
+SQL Server 2022 Connection Info 
+Microsoft.MacCatalyst.Sdk.net8.0_18.0 (x64) 
+WebDrive 
+Microsoft ASP.NET Core Module V2 for IIS Express 
+Microsoft.NET.Sdk.MacCatalyst.Manifest-9.0.100 (x64) 
+vs_communityx64msi 
+Microsoft.NET.Runtime.MonoAOTCompiler.Task (x64) 
+VS Script Debugging Common 
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64 (x64) 
+Dr.Web Agent 
+Microsoft.Android.Runtime.35.android-x86 (x64) 
+IntelliTraceProfilerProxy 
+Microsoft ASP.NET Core Module for IIS Express 
+Microsoft.NETCore.App.Runtime.AOT.win-x64.Cross.android-arm64 (x64) 
+Unity Hub 2.4.4 
+Visual Studio Community 2022 
+Среда выполнения Microsoft Edge WebView2 Runtime 
+Microsoft Help Viewer 2.3 
+Windows Mobile Extension SDK Contracts 
+vs_clickoncesigntoolmsi 
+vs_filehandler_x86 
+Windows SDK for Windows Store Managed Apps Libs 
+Microsoft .NET Host - 9.0.0 (x86) 
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211 
+Microsoft .NET Framework 4.7.2 Targeting Pack 
+vs_CoreEditorFonts 
+WPTx64 (OnecoreUAP) 
+Universal CRT Redistributable 
+Обозреватель для SQL Server 2022 
+Windows SDK Desktop Libs x86 
+Microsoft ASP.NET Core 8.0.11 Shared Framework (x86) 
+Visual Studio 2017 Isolated Shell for SSMS 
+Microsoft ASP.NET Core 8.0.11 Targeting Pack (x86) 
+Windows App Certification Kit x64 
+SDK ARM Additions 
+Windows SDK 
+Windows SDK Desktop Libs arm 
+Пакет нацеливания Microsoft .NET Framework 4.8 (Русский) 
+Windows SDK Desktop Headers arm 
+SSMS Post Install Tasks 
+vs_devenvsharedmsi 
+Windows SDK for Windows Store Apps Tools 
+Universal CRT Tools x86 
+MSI Development Tools 
+Microsoft Windows Desktop Runtime - 8.0.11 (x86) 
+Windows SDK Desktop Headers x64 
+WinRT Intellisense UAP - Other Languages 
+Windows SDK Redistributables 
+WinRT Intellisense IoT - en-us 
+Visual C++ Library CRT Appx Resource Package 
+vs_Graphics_Singletonx86 
+Microsoft Visual Studio Setup WMI Provider 
+Microsoft HTML Help Workshop Package 
+Windows SDK for Windows Store Apps Metadata 
+icecap_collectionresources 
+WinRT Intellisense Desktop - Other Languages 
+Microsoft .NET Framework 4.7.1 Targeting Pack 
+Windows SDK Signing Tools 
+Kits Configuration Installer 
+Microsoft Visual C++ 2022 X86 Debug Runtime - 14.42.34433 
+Windows SDK for Windows Store Apps DirectX x86 Remote 
+WinRT Intellisense PPI - Other Languages 
+Windows SDK for Windows Store Apps Contracts 
+Windows SDK for Windows Store Apps 
+Microsoft .NET Targeting Pack - 8.0.11 (x86) 
+WinRT Intellisense IoT - Other Languages 
+SQL Server Management Studio Language Pack - English 
+Visual C++ Library CRT Desktop Appx Package 
+Visual C++ Library CRT Desktop Appx Package 
+vs_vswebprotocolselectormsires 
+Microsoft ASP.NET Diagnostic Pack for Visual Studio 
+Windows Software Development Kit - Windows 10.0.22621.3233 
+vs_FileTracker_Singleton 
+Microsoft NetStandard SDK 
+Windows App Certification Kit x64 (OnecoreUAP) 
+Windows SDK for Windows Store Apps Headers 
+Windows SDK Modern Non-Versioned Developer Tools 
+Windows SDK Facade Windows WinMD Versioned 
+Windows Desktop Extension SDK Contracts 
+Microsoft .NET Targeting Pack - 9.0.0 (x86) 
+WinRT Intellisense Mobile - en-us 
+Microsoft TestPlatform SDK Local Feed 
+Windows SDK DirectX x86 Remote 
+Microsoft ASP.NET Core 9.0.0 Shared Framework (x86) 
+Windows SDK Desktop Libs x64 
+vs_BlendMsi 
+Python Launcher 
+Windows SDK Desktop Libs arm64 
+Windows IoT Extension SDK Contracts 
+Microsoft Analysis Services OLE DB Provider 
+vcpp_crt.redist.clickonce 
+Windows Team Extension SDK 
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211 
+Microsoft .NET Framework 4.8 SDK 
+WinRT Intellisense UAP - en-us 
+Windows SDK ARM Desktop Tools 
+Microsoft SQL Server Management Studio - 20.2 
+SQL Server Management Studio 
+Microsoft Help Viewer 2.3 
+Microsoft .NET Runtime - 9.0.0 (x86) 
+Microsoft .NET Runtime - 8.0.11 (x86) 
+Windows Mobile Extension SDK 
+Windows SDK Desktop Tools arm64 
+Windows SDK Desktop Headers arm64 
+WPT Redistributables 
+vs_clickoncebootstrappermsires 
+icecap_collectionresourcesx64 
+windows_toolscorepkg 
+vs_communitysharedmsi 
+vs_tipsmsi 
+vs_minshellsharedmsi 
+WinRT Intellisense Desktop - en-us 
+vs_clickoncebootstrappermsi 
+SDK ARM Redistributables 
+vs_vswebprotocolselectormsi 
+Microsoft .NET Framework 4.7.1 Doc Redirected Targeting Pack (ENU) (русский) 
+Microsoft .NET Framework 4.8 Targeting Pack 
+ClickOnce Bootstrapper Package for Microsoft .NET Framework 
+VS Immersive Activate Helper 
+Windows SDK Desktop Tools x64 
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211 
+Integration Services 
+Microsoft .NET Host FX Resolver - 9.0.0 (x86) 
+WinRT Intellisense PPI - en-us 
+Windows SDK Modern Versioned Developer Tools 
+Windows App Certification Kit SupportedApiList x86 
+IntelliTraceProfilerProxy 
+WinAppDeploy 
+Windows SDK Desktop Tools x86 
+Microsoft Windows Desktop Targeting Pack - 9.0.0 (x86) 
+Windows SDK for Windows Store Apps Libs 
+Windows IoT Extension SDK 
+Microsoft Visual Studio Setup Configuration 
+Universal General MIDI DLS Extension SDK 
+Universal CRT Headers Libraries and Sources 
+Visual C++ Library CRT Appx Package 
+Windows Desktop Extension SDK 
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211 
+vs_githubprotocolhandlermsi 
+WPTx64 (DesktopEditions) 
+icecap_collection_neutral 
+vs_minshellmsires 
+Windows SDK EULA 
+vs_SQLClickOnceBootstrappermsi 
+Visual C++ Library CRT Appx Package 
+Microsoft Visual Studio Tools for Applications 2019 x86 Hosting Support 
+Microsoft ASP.NET Core 9.0.0 Targeting Pack (x86) 
+Microsoft Windows Desktop Runtime - 9.0.0 (x86) 
+Universal CRT Extension SDK 
+Xamarin Remoted iOS Simulator 
+Entity Framework 6.2.0 Tools  for Visual Studio 2022 
+Пакет SDK для Microsoft .NET Framework 4.8 (Русский) 
+vs_filehandler_amd64 
+Windows SDK AddOn 
+Microsoft Visual Studio Tools for Applications 2019 
+vs_minshellinteropsharedmsi 
+Visual C++ Library CRT ARM64 Appx Package 
+Windows SDK Desktop Headers x86 
+Пакет нацеливания Microsoft .NET Framework 4.7.2 (Русский) 
+Накопительный пакет обновления Microsoft .NET Framework Intellisense для Visual Studio (Русский) 
+vs_communitymsires 
+Microsoft Windows Desktop Targeting Pack - 8.0.11 (x86) 
+Windows Team Extension SDK Contracts 
+Visual C++ Library CRT Desktop Appx Package 
